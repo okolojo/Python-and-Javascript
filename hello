@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title> My Web page</title>
+	<style>
+	 table{
+		border:2px solid black;
+		border-collapse:collapse;
+		}
+		th, td{
+		   border:1px solid black;
+		   padding:5px;
+		   width:25%;
+		  
+		}
+		th{
+		   background-color:lightgray;
+		}
+		
+	</style>
+   </head>
+   <body>
+      Hello, World!
+<h1 style=color:blue;text-align:center>Largest heading</h1>
+<h2> Second largest heading</h2>
+<h3> Third lagest heading</h3>
+<p></p>
+Unordered List!
+<ul>
+<li> First stage</l1>
+<li> Second stage</li>
+<li> third stage</li>
+</ul>
+
+<p></p>
+
+<img src="cat.jpg" height="200" width="300">
+
+<p></p>
+Ordered List!
+<ol>
+<li> First stage</li>
+<li> Second stage </li>
+<li> Third stage </li>
+</ol>
+<p></P>
+<h1>Nigerian Presidents</h1>
+<table>
+<tr>
+<th>Surname</th>
+<th>Other Names</th>
+<th>Years in Office</th>
+</tr>
+<tr>
+<td>Olusegun</td><td>Obasanjo</td><td>1999-2007</td>
+</tr>
+<tr>
+<td>Yaradua</td><td>Musa</td><td>2007-2010</td>
+</tr>
+<tr>
+<td>Jonathan</td><td>Goodluck</td><td>2010-2015</td>
+</tr>
+</table>
+   </body>
+</html?
